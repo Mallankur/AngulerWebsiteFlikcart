@@ -1,2 +1,2 @@
-# AngulerWebsiteFlikcart
-Flikcart Website
+# FlipCart
+Flipcart Website
